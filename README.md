@@ -12,7 +12,7 @@ Soy Ingeniero Informático desde 2012, soy programador Senior 👴
 - Y por razones de fuerza mayor Agentes de 🤖
 
 ## Micelaneos
-_ Leer
+- Leer
 -  ~~👾 Maestro en Pokénom Go => 2771 9474 0880~~
 - ♚  Amateur en Chess.com => Gataro
 
