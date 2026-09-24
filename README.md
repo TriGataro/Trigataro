@@ -16,6 +16,6 @@ Soy Ingeniero Informático desde 2012, soy programador Senior 👴
 -  ~~👾 Maestro en Pokénom Go => 2771 9474 0880~~
 - ♚  Amateur en Chess.com => Gataro
 
-También tengo un pequeño emprendimiento porque 💸 la plata se va en bencina, si quieres saber de que va mi emprendimiento => [Haz click áqui](https://trigataro.github.io/TrigataroServices/).
+También tengo un pequeño emprendimiento porque 💸 la plata se va en bencina, si quieres saber de que va mi emprendimiento => [Haz click aquí](https://trigataro.github.io/TrigataroServices/).
 
 
