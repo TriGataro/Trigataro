@@ -1,6 +1,6 @@
 # 👋 Soy Claudio Ruiz y este es mi Github
 
-Soy Ingeniero Informático desde 2012, soy programador Senior 👴
+Soy Ingeniero Informático Full-Stack desde 2012, soy programador Senior 👴
 
 ## Manejo de todo un poco
 - Redes
