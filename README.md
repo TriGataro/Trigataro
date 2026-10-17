@@ -9,7 +9,7 @@ Soy Ingeniero Informático Full-Stack desde 2012, soy programador Senior 👴
 - Desarrollo Front-End
 - Desarrollo de APP ⚙️
 - Nube
-- Y por razones de fuerza mayor Agentes de 🤖
+- Y por razones de fuerza mayor uso Agentes de IA con skills
 
 ## Micelaneos
 - Leer
