@@ -3,7 +3,7 @@
 Soy Ingeniero Informático Full-Stack desde 2012, soy programador Senior 👴
 
 ## Manejo de todo un poco
-- Redes
+- Redes 📠
 - Bases de datos💽
 - Desarrollo Back-End 💾
 - Desarrollo Front-End📱
